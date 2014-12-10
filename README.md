@@ -13,4 +13,7 @@ Test using .ssh/config for multiple repos on one server
 
 Test push from linux
 
+Test push from devws
+
+
 
