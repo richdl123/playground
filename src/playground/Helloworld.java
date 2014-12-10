@@ -34,7 +34,7 @@ public class Helloworld {
  *
  * @param message String variable to be printed
  * @deprecated
- * @see HelloWorld
+ * @see Helloworld
  * @since version 1.00
  */
 public static void oldPrintMessage(String message)
@@ -48,7 +48,7 @@ public static void oldPrintMessage(String message)
 * The method prints a received message on the Console
 *
 * @param message String variable to be printed
-* @see HelloWorld
+* @see Helloworld
 * @since version 2.00
 */
 public static void newPrintMessage(String message)
