@@ -15,5 +15,7 @@ Test push from linux
 
 Test push from devws
 
+test push from dan desktop to dan respository
+
 
 
