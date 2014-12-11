@@ -25,6 +25,7 @@ public class Helloworld {
 		if (args.length > 0){
 		   newPrintMessage(args[0]);
 		}
+		newPrintMessage("\n\n");
 
 	}
     /**
